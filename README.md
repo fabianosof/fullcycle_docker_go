@@ -1,1 +1,2 @@
-# fullcycle_docker_go
+# Link da imagem Docker Hub:
+https://hub.docker.com/r/fabianosof/fullcycle
